@@ -10,7 +10,7 @@ export function Experience() {
       period: t("exp.j1.period"),
       role: t("exp.j1.role"),
       company: t("exp.j1.company"),
-      bullets: [t("exp.j1.b1"), t("exp.j1.b2"), t("exp.j1.b3"), t("exp.j1.b4")],
+      bullets: [t("exp.j1.b1"), t("exp.j1.b2"), t("exp.j1.b3"), t("exp.j1.b4"), t("exp.j1.b5")],
     },
     {
       period: t("exp.j2.period"),

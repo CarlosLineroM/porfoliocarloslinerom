@@ -14,7 +14,7 @@ export function Skills() {
     { title: t("skills.databases"), items: ["PostgreSQL", "MySQL", "Supabase"] },
     {
       title: t("skills.tools"),
-      items: ["Selenium", "Railway", "Power BI", "Pentaho", "Make", "Notion", "NotebookLM"],
+      items: ["Claude Code", "Railway", "Power BI", "Pentaho", "Make", "Notion", "NotebookLM"],
     },
   ];
 
