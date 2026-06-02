@@ -19,7 +19,7 @@ export function Projects() {
     };
   }, [open]);
 
-  const challenges = Array.from({ length: 10 }, (_, i) => t(`projects.ch.${i + 1}`));
+  const challenges = Array.from({ length: 5 }, (_, i) => t(`projects.ch.${i + 1}`));
 
   return (
     <section id="proyectos" className="mx-auto max-w-5xl scroll-mt-24 px-6 py-16">
